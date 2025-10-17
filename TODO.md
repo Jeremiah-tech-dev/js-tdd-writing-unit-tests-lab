@@ -1,0 +1,2 @@
+- [ ] Implement isPalindrome function in utils.js with required behavior
+- [ ] Run tests to verify all pass
